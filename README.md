@@ -7,11 +7,10 @@ I'm a **Computer Science at Purdue** passionate about building innovative full-s
 - **What I Love:** Collaborating on cool side projects and diving into hackathons to challenge my skills
 
 ## 🔭 Currently Working On
-- **Bookscape-MERN:** A full-stack bookstore application built with the MERN stack.  
-  Check it out on GitHub: [Bookscape-MERN](https://github.com/acagliol/Bookscape-MERN)
+- **ClearPath:** Check it out on GitHub: [ClearPath](https://github.com/acagliol/ClearPath)
 
 ## 🌱 What I’m Learning
-- **Tech Stack:** React, Django, and DevOps basics  
+- **Tech Stack:** TypeScript, PostgreSQL, AWS, GraphQL, Mapbox, and React Native  
   Constantly exploring ways to improve both front-end and back-end development
 
 ## 💬 Ask Me About
