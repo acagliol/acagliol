@@ -7,7 +7,7 @@ I'm a **Computer Science at Purdue** passionate about building innovative full-s
 - **What I Love:** Collaborating on cool side projects and diving into hackathons to challenge my skills
 
 ## 🔭 Currently Working On
-- **About Me AI Chat:** Check it out on GitHub: [About Me AI Chat]([https://github.com/acagliol/ClearPath](https://github.com/acagliol/About-Me-AI-Chat/blob/main/README.md))
+- **About Me AI Chat:** Check it out on GitHub: [About Me AI Chat]([https://github.com/acagliol/About-Me-AI-Chat/])
 
 ## 🌱 What I’m Learning
 - **Tech Stack:** TypeScript, PostgreSQL, AWS, GraphQL, Mapbox, and React Native  
