@@ -26,7 +26,5 @@ tools for **market data**, **factor models**, and **strategy evaluation**
 **email:** acagliol@purdue.edu
 
 ---
-
-## 📊 github stats
-<img src="https://github-readme-stats.vercel.app/api?username=acagliol&show_icons=true&theme=transparent" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acagliol&layout=compact&theme=transparent" height="150" />
+## 📊 GitHub Stats
+![Alejo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=acagliol&show_icons=true&theme=radical)
