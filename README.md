@@ -30,4 +30,4 @@ building out a quantitative research platform with tools for data, factor models
 ## 📫 connect
 
 * **linkedin:** [Alejo Cagliolo](https://linkedin.com/in/alejo-cagliolo)
-* **x:** [@alejo_cagliolo]((https://x.com/alejo_cagliolo))
+* **x:** [@alejo_cagliolo]([https://x.com/alejo_cagliolo])
