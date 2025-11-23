@@ -6,9 +6,7 @@ i'm a **cs + finance student at purdue**—mostly building things where **ai** m
 
 ## currently: helios quant
 
-building out a quantitative research platform with tools for data, factor models, and strategy evaluation. it's mostly a Go + Python effort.
-
-**repo:** <a href="https://github.com/acagliol/helios-quant">
+building out a quantitative research platform with tools for data, factor models, and strategy evaluation. it's mostly a Python effort.
 
 
 ## 🛠️ my stack
