@@ -1,16 +1,15 @@
-# hey, i'm alejo 👋
+# hey, i'm alejo 
 
 i'm a **cs + finance student at purdue**—mostly building things where **ai** meets **markets**. i try to keep code clean and efficient, focusing on systems.
 
 ---
 
-## 🚀 currently: helios quant
+## currently: helios quant
 
 building out a quantitative research platform with tools for data, factor models, and strategy evaluation. it's mostly a Go + Python effort.
 
-**repo:** <a href="https://github.com/acagliol/helios-quant"><img src="https://img.shields.io/github/stars/acagliol/acagliol?style=for-the-badge&label=star%20the%20repo&logo=github&color=5865F2" /></a>
+**repo:** <a href="https://github.com/acagliol/helios-quant">
 
----
 
 ## 🛠️ my stack
 
@@ -33,4 +32,4 @@ building out a quantitative research platform with tools for data, factor models
 ## 📫 connect
 
 * **linkedin:** [Alejo Cagliolo](https://linkedin.com/in/alejo-cagliolo)
-* **x:** [@alejocagliolo](https://x.com/alejocagliolo)
+* **x:** [@alejo_cagliolo]((https://x.com/alejo_cagliolo))
