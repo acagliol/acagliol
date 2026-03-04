@@ -19,10 +19,8 @@
 ## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acagliol&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=22&cache_seconds=86400" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acagliol&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=86400" alt="languages" />
+  <img src="https://img.shields.io/github/followers/acagliol?style=for-the-badge&labelColor=282a36&color=bd93f9" alt="followers" />
+  <img src="https://img.shields.io/github/stars/acagliol?affiliation=owner&style=for-the-badge&labelColor=282a36&color=bd93f9" alt="stars" />
 </p>
 
 ---
