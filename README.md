@@ -1,33 +1,32 @@
-# hey, i'm alejo 
+# alejo
 
-i'm a **cs + finance student at purdue mostly building things where **ai** meets **markets**. i try to keep code clean and efficient, focusing on systems.
-
----
-
-## currently: helios quant
-
-building out a quantitative research platform with tools for data, factor models, and strategy evaluation. it's mostly a Python effort.
-
-
-## my stack
-
-**Python • Go • TypeScript • Next.js • FastAPI • PostgreSQL • Docker • GCP/AWS**
+**CS + Finance @ Purdue** · AI × markets
 
 ---
 
-## stats & languages
+## pinned
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acagliol&repo=helios-quant&theme=dracula&hide_border=true)](https://github.com/acagliol/helios-quant)
+
+---
+
+## stack
+
+**Python** · **Go** · **TypeScript** · **Next.js** · **FastAPI** · **PostgreSQL** · **Docker** · **GCP/AWS**
+
+---
+
+## stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=acagliol&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=22" alt="Alejo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acagliol&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=22" alt="stats" />
 </p>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acagliol&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Alejo's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acagliol&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="languages" />
 </p>
 
 ---
 
-## connect
+## links
 
-* **linkedin:** [Alejo Cagliolo](https://linkedin.com/in/alejo-cagliolo)
-* **x:** [@alejo_cagliolo]([https://x.com/alejo_cagliolo])
+[LinkedIn](https://linkedin.com/in/alejo-cagliolo) · [X](https://x.com/alejo_cagliolo)
